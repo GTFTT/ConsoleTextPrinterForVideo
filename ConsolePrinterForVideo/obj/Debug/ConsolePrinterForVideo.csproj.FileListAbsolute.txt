@@ -1,0 +1,6 @@
+D:\Workspaces\VisualStudioWorkspace\ConsolePrinterForVideo\ConsolePrinterForVideo\bin\Debug\ConsolePrinterForVideo.exe.config
+D:\Workspaces\VisualStudioWorkspace\ConsolePrinterForVideo\ConsolePrinterForVideo\bin\Debug\ConsolePrinterForVideo.exe
+D:\Workspaces\VisualStudioWorkspace\ConsolePrinterForVideo\ConsolePrinterForVideo\bin\Debug\ConsolePrinterForVideo.pdb
+D:\Workspaces\VisualStudioWorkspace\ConsolePrinterForVideo\ConsolePrinterForVideo\obj\Debug\ConsolePrinterForVideo.csprojAssemblyReference.cache
+D:\Workspaces\VisualStudioWorkspace\ConsolePrinterForVideo\ConsolePrinterForVideo\obj\Debug\ConsolePrinterForVideo.exe
+D:\Workspaces\VisualStudioWorkspace\ConsolePrinterForVideo\ConsolePrinterForVideo\obj\Debug\ConsolePrinterForVideo.pdb
